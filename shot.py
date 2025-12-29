@@ -1,4 +1,5 @@
 from circleshape import CircleShape
+from constants import LINE_WIDTH
 import pygame
 
 class Shot(CircleShape):
